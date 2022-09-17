@@ -116,7 +116,7 @@ padding: 100px 200px;
      background: url(images/back2.jpg) no-repeat;
      background-size: cover;
      background-position: center;
-     background-attachment: fixed;
+   
  }
 .main .overlay{
     position: absolute;
